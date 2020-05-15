@@ -1,0 +1,1 @@
+entity для БД и entity для rest api сильно отличаются. К примеру, wallet entity для БД содержит тип User, а для rest api полезнее было бы иметь тип Int, из-за этого вопрос: нужен ли дополнительный entity для rest api?
